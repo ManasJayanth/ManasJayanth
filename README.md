@@ -11,6 +11,7 @@ Any work I do on open source is sponsored by you folks. If you like my work, con
 
 
 ## Packages I maintain
+- https://github.com/ManasJayanth/esy-pcre2
 - https://github.com/ManasJayanth/esy-sqlite
 - https://github.com/ManasJayanth/esy-readline
 - https://github.com/ManasJayanth/esy-ncurses
